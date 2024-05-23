@@ -1,0 +1,5 @@
+{
+    "base_path": "path_to_base_folder",
+    "rotated_folder": "rotated",
+    "not_rotated_folder": "not-rotated"
+}
